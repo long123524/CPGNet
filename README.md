@@ -63,7 +63,9 @@ For testing and validation datasets, the same structure as the above.
 ## Datasets
 
 JL-1 dataset: https://www.jl1mall.com/store/ResourceCenter.
+
 SECOND dataset: https://drive.google.com/file/d/1mN8jzCKKK27p3ODGoDgepjiRYGQpB34u/view.
+
 A preprocessed dataset of cropland non-agriculturalization in Xiamen is available at https://drive.google.com/file/d/1beZ8aPzQk-MuSoRbI64upvjMfNAYjP0-/view?usp=sharing.
 
 ## Training and testing
